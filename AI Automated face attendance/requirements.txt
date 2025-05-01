@@ -1,0 +1,6 @@
+face-recognition==1.3.0
+opencv-python==4.9.0.80
+customtkinter==5.2.1
+Pillow==10.2.0
+numpy==1.26.4
+mysql-connector-python==8.3.0
